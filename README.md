@@ -9,5 +9,7 @@ Diseñar un sistema de gestión de biblioteca. Crear una aplicación Orientada a
 ## Etapa 2. Especificaciónes
 
 ## Etapa 3. Diseño de Solución 
+Diagrama UML
+
 
 ## Etapa 4. Desarrollo de la solución 
